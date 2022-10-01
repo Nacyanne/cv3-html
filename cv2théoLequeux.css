@@ -1,0 +1,81 @@
+h1
+{
+	text-align: center;
+	border-style: double;
+	border-color: black;
+	border-radius: 10px;
+
+}
+
+img
+{
+	box-shadow: 10px 10px 15px blanchedalmond;
+	position: relatove;
+	right: 1%;
+	top: 1%;
+}
+
+.lisserer
+{
+	display: flex;
+	flex-direction: space-around;
+	width: 200px;
+	height: 1000px;
+	background-color:rgb(177, 173, 252);
+	border-radius: 10px;
+}
+
+
+h2
+{
+	color: orangered;
+	text-align: center;
+}
+
+body
+{
+	background-color: rgb(235, 251,254 ) ;
+	display: flex;
+	display-direction : space-between;
+	
+	
+}
+
+.content {
+	display: flex;
+	flex-direction: space-aroud;
+}
+
+p 
+{
+	font-size: 20px;
+
+	
+}
+
+header
+{
+	width: 80%;
+	height: 20%;
+	display-direction:  space-between;
+}
+
+}
+
+
+
+article
+{
+	width: 90%;
+	text-align: justify;
+
+}
+
+
+
+ul
+{
+	display: flex;
+	justify-content: space-around;
+	display-direction:  space-between;
+}
